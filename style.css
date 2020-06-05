@@ -25,6 +25,10 @@
 .dropdown-menu{
     background-color: #9e9e9e;
 }
+video {
+    vertical-align: middle;
+    border-style: none; 
+  }
 .active{
    
     background-color: crimson;
