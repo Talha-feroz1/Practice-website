@@ -128,6 +128,10 @@ h4 {
 .overflow-hidden {
     overflow: hidden;
 }
+video {
+    vertical-align: middle;
+    border-style: none; 
+  }
 
 .contact-imfo-box i{
 	display: block;
