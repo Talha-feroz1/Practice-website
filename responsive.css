@@ -9,7 +9,7 @@ Design and Developed by: potenzaglobalsolutions.com
 @media (max-width: 1600px) {
     /* Home */
     .our-menu .object-top-bottom .object-right { width: 7%; }
-    .our-menu .object-top-bottom .object-right img  { width: 100%; }
+    .our-menu .object-top-bottom .object-right img , video  { width: 100%; }
     .about-2 .object-right { width: 14%; }
     .about-2 .object-right img{ width: 100%; }
     .footer .object-right { width: 38%; }
@@ -46,23 +46,23 @@ Design and Developed by: potenzaglobalsolutions.com
     .our-menu .menu-body { margin-bottom: 50px; }
     .menu-body.menu-white { padding:0;  }
     .menu-body.menu-left .menu-thumbnail,.menu-body.menu-right .menu-thumbnail{ width: 120px; }
-    .menu-body .menu-thumbnail img { width: 120px; }
+    .menu-body .menu-thumbnail img , video  { width: 120px; }
     .object-4 .object-right { display: none; }
     .object-3 { display: none; }
-    .newsletter-section .newsletter-image img { top: -75px; }
+    .newsletter-section .newsletter-image img , video  { top: -75px; }
     .footer .object-bottom .object-left { display: none; }
     .footer-gallery li { width: 65px; }
     
     /* Home 2 */
     .about-2 .right-img { margin-top: 100px !important}
-    .header-2 .mega-menu img { margin: 12px 0; }
+    .header-2 .mega-menu img , video  { margin: 12px 0; }
     .footer-2 .opening-time li span.line { display: none; }
     
     /* Home 3 */
-    .header-3 .mega-menu img { margin: 12px 0; }
+    .header-3 .mega-menu img , video  { margin: 12px 0; }
     
     /* Home 3 */
-    .header-4 .mega-menu img { margin: 12px 0; }
+    .header-4 .mega-menu img  , video { margin: 12px 0; }
     .footer-4 .opening-time li span.line { display: none; }
     
     /* Home 4 */
@@ -74,9 +74,9 @@ Design and Developed by: potenzaglobalsolutions.com
     .newsletter-section .newsletter-title { margin-top: 24px; }
     .about-2 .about-content.mt-100 { margin-top: 70px !important; }
     .our-menu.middle-img .menu-body:last-child { margin-bottom: 60px; }
-    .overlay-content a.portfolio-img { margin-top: 0px; }
+    .overlay-content a.portfolio-img , video  { margin-top: 0px; }
     .footer-5 .footer-bg { display: none; }
-    .our-menu .middle-image { display: none; }
+    .our-menu .middle-image , video  { display: none; }
     .blog-entry .social ul li { padding: 0px 2px; }
     .masonry.columns-3 .blog-entry .social ul li { padding: 0px; font-size: 12px; }
     }
@@ -240,7 +240,7 @@ Design and Developed by: potenzaglobalsolutions.com
     /* Home 1 */
     .book-menu .content h2 { font-size: 48px; }
     .object-2 .object-right { text-align: right; }
-    .object-2 .object-right img { width: 60%; display: inline-block; }
+    .object-2 .object-right img , video  { width: 60%; display: inline-block; }
     }
     
     @media( max-width:767px) {
